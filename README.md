@@ -79,3 +79,6 @@ flappy-bird-flutter/
 ├── .gitignore                 # Git ignore file
 ├── .metadata                  # Flutter metadata
 ```
+
+## Author
+Aswin (Intern ID : CITS823)
